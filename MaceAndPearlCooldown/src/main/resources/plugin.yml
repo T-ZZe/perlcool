@@ -1,0 +1,8 @@
+name: MaceAndPearlCooldown
+version: 1.0.0
+main: fr.maceandpearlcooldown.MaceAndPearlCooldown
+api-version: "26.3"
+permissions:
+  maceandpearlcooldown.bypass:
+    description: Ignore les cooldowns de la masse et des perles
+    default: op
